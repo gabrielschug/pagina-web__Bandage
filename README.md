@@ -35,5 +35,3 @@ O objetivo deste projeto foi criar uma página estática representando o site de
 ---
 > Projeto feito para fins educativos e de portfólio pessoal.
 >
-
-* [ ]
