@@ -16,7 +16,7 @@ O objetivo deste projeto foi criar uma página estática representando o site de
 
 ## 🚀 Acesse o site publicado:
 
-🔗 [Clique aqui para visualizar a Página]((https://gabrielschug.github.io/pagina-web__Bandage/)https://gabrielschug.github.io/pagina-web__[nomedecadaempresadosite]/)
+🔗 [Clique aqui para visualizar a Página](https://gabrielschug.github.io/pagina-web__Bandage/)
 
 ---
 
